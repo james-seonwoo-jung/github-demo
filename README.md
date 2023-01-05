@@ -12,3 +12,5 @@
 
 
 comparing working directory and staging area
+
+git diff testing comment
