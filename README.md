@@ -9,3 +9,6 @@
 ## Deployment
 
 ## How to Contribute
+
+
+comparing working directory and staging area
