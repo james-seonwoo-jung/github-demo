@@ -5,3 +5,5 @@ Test a Branch and Mergen
 Test a Branch and Mergen
 
 it is in the branch - change the contents
+
+copy right
