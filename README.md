@@ -16,3 +16,7 @@ comparing working directory and staging area
 git diff testing comment
 
 test - 1/5/23
+
+git copy righ testing
+
+123
