@@ -22,3 +22,5 @@ git copy righ testing
 123
 
 git test
+
+rebase test
