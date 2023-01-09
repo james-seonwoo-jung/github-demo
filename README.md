@@ -24,3 +24,5 @@ git copy righ testing
 git test
 
 rebase test
+
+stashing test
