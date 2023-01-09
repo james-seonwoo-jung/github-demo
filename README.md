@@ -26,3 +26,5 @@ git test
 rebase test
 
 stashing test
+
+git test - tagging
